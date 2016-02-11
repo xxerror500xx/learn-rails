@@ -14,6 +14,7 @@ puts "Hello, Github!"
 | some stuff   |  other stuff   |     more stuff|
 | :---         |     :---:      |          ---: |
 | things here  | Things there   | things rare?  |
+|       ~~ alignment is an issue above ~~       |
 
 - [x] checked the box for formatting
-- [ ] finish the Tut. :thought_baloon: :feelsgood:
+- [ ] finish the Tut. :thought_balloon: => :feelsgood:
