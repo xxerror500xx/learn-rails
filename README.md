@@ -9,12 +9,12 @@ puts "Hello, Github!"
 ```
 
 > “That’s it baby, when you got it, flaunt it! Flaunt it!”
->~ Zero Mostel, in movie [The Producers (1968)](http://www.imdb.com/title/tt0063462/)
+*~ Zero Mostel, in movie* [The Producers (1968)](http://www.imdb.com/title/tt0063462/)
 
 | some stuff   |  other stuff   |     more stuff|
 | :---         |     :---:      |          ---: |
 | things here  | Things there   | things rare?  |
-|       ~~ alignment is an issue above ~~       |
+        ~~alignment is an issue above~~       
 
 - [x] checked the box for formatting
 - [ ] finish the Tut. :thought_balloon: => :feelsgood:
